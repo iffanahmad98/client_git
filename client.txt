@@ -1,1 +1,2 @@
 add txt github
+add txt gitea
